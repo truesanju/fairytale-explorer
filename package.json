@@ -1,0 +1,20 @@
+{
+  "name": "fairytales",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "mapbox-gl": "^0.44.2",
+    "rc-align": "2.3.5",
+    "rc-slider": "^8.6.1",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-scripts": "1.1.4",
+    "react-select-plus": "^1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
